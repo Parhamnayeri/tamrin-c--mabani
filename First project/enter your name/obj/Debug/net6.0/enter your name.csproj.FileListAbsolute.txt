@@ -1,0 +1,15 @@
+D:\enter your name\enter your name\bin\Debug\net6.0\enter your name.exe
+D:\enter your name\enter your name\bin\Debug\net6.0\enter your name.deps.json
+D:\enter your name\enter your name\bin\Debug\net6.0\enter your name.runtimeconfig.json
+D:\enter your name\enter your name\bin\Debug\net6.0\enter your name.dll
+D:\enter your name\enter your name\bin\Debug\net6.0\enter your name.pdb
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.csproj.AssemblyReference.cache
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.GeneratedMSBuildEditorConfig.editorconfig
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.AssemblyInfoInputs.cache
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.AssemblyInfo.cs
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.csproj.CoreCompileInputs.cache
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.dll
+D:\enter your name\enter your name\obj\Debug\net6.0\refint\enter your name.dll
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.pdb
+D:\enter your name\enter your name\obj\Debug\net6.0\enter your name.genruntimeconfig.cache
+D:\enter your name\enter your name\obj\Debug\net6.0\ref\enter your name.dll

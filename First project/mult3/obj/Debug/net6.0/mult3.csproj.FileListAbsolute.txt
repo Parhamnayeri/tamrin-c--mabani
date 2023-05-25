@@ -1,0 +1,15 @@
+D:\mult3\mult3\bin\Debug\net6.0\mult3.exe
+D:\mult3\mult3\bin\Debug\net6.0\mult3.deps.json
+D:\mult3\mult3\bin\Debug\net6.0\mult3.runtimeconfig.json
+D:\mult3\mult3\bin\Debug\net6.0\mult3.dll
+D:\mult3\mult3\bin\Debug\net6.0\mult3.pdb
+D:\mult3\mult3\obj\Debug\net6.0\mult3.csproj.AssemblyReference.cache
+D:\mult3\mult3\obj\Debug\net6.0\mult3.GeneratedMSBuildEditorConfig.editorconfig
+D:\mult3\mult3\obj\Debug\net6.0\mult3.AssemblyInfoInputs.cache
+D:\mult3\mult3\obj\Debug\net6.0\mult3.AssemblyInfo.cs
+D:\mult3\mult3\obj\Debug\net6.0\mult3.csproj.CoreCompileInputs.cache
+D:\mult3\mult3\obj\Debug\net6.0\mult3.dll
+D:\mult3\mult3\obj\Debug\net6.0\refint\mult3.dll
+D:\mult3\mult3\obj\Debug\net6.0\mult3.pdb
+D:\mult3\mult3\obj\Debug\net6.0\mult3.genruntimeconfig.cache
+D:\mult3\mult3\obj\Debug\net6.0\ref\mult3.dll
